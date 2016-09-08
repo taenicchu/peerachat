@@ -1,0 +1,1 @@
+$ ./bitcoin-cli -rpcconnect=rpc.blockchain.info -rpcport=443 -rpcssl -rpcuser=YourWalletIdentifier -rpcpassword=YourPassword getinfo
